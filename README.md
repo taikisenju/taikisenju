@@ -2,6 +2,7 @@
 
 <!--
 **taikisenju/taikisenju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taikisenju)
 
 Here are some ideas to get you started:
 
