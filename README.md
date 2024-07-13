@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![GitHub Stats Card](https://github-readme-stats-seven-sand-30.vercel.app/api?username=taikisenju&theme=dark)
-![Top Languages Card](https://github-readme-stats-seven-sand-30.vercel.app/api/top-langs/?username=taikisenju)
+![Top Languages Card](https://github-readme-stats-seven-sand-30.vercel.app/api/top-langs/?username=taikisenju&theme=dark)
 
 <!--
 **taikisenju/taikisenju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
