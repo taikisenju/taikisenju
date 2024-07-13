@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats-seven-sand-30.vercel.app/api?username=taikisenju&theme=onedark&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats-seven-sand-30.vercel.app/api?username=taikisenju&theme=onedark&show_icons=true&include_orgs=true)
 ![Top Languages Card](https://github-readme-stats-seven-sand-30.vercel.app/api/top-langs/?username=taikisenju&theme=onedark&show_icons=true)
 
 <!--
